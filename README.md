@@ -1,3 +1,3 @@
 # Tensorflow-Keras-Repo
 
-Assignments for tensorflow and keras will be here
+Assignments and Projects for tensorflow and keras will be here
